@@ -1,0 +1,10 @@
+[
+    {
+        "id": "1",
+        "nombre": "Bot_Base",
+        "modelo": "gemini-1.5-flash",
+        "key": "AIzaSyBXGunDiAmW_s4t-RewwFL4YGp9hF5aEf4",
+        "sys_inst": "\"Ahora eres un experto en C++\"",
+        "temp": 0.7
+    }
+]
